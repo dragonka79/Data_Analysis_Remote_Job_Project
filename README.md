@@ -10,7 +10,7 @@ This repository is designed to showcase real-world applications of relational da
 ## 📌 Planned Project
 
 Data scraping, data cleaning, data analysis and visualization from different aspects.
-The databases used for this project come from https://remoteok.com/
+The dataset used for this project comes from https://remoteok.com/
 
 ---
 ## 🔍 Project Goals
