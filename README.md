@@ -1,10 +1,18 @@
-# PostgreSQL & Data Visualization Projects
+# PostgreSQL & Data Visualization Project on job advertisement
 
-Welcome to my collection of data projects that combine the power of **PostgreSQL** with compelling **data visualizations** using tools like Power BI, Tableau, and Python-based libraries (e.g., Matplotlib, Seaborn, Plotly).  
+Welcome to first project that combine the power of **PostgreSQL** with compelling **data visualizations** using tools like Power BI, Tableau, and Python-based libraries (e.g., Matplotlib, Seaborn, Plotly).  
 This repository is designed to showcase real-world applications of relational databases and analytical dashboards.
+
 
 ---
 
+
+## 📌 Planned Project
+
+Data scraping, data cleaning, data analysis and visualization from different aspects.
+The databases used for this project come from https://remoteok.com/
+
+---
 ## 🔍 Project Goals
 
 - Practice advanced **SQL** querying techniques (e.g., CTEs, window functions, indexing)
@@ -33,9 +41,6 @@ updating
 
 ---
 
-## 📌 Planned Projects
-
-updating
 
 ## 🧠 Learning Objectives
 
