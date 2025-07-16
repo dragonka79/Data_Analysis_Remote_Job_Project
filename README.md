@@ -26,8 +26,8 @@ updating
 - **Querying**: SQL (CTEs, Joins, Aggregations, Window Functions)
 - **Visualization**:
   - Python: Pandas, Seaborn, Matplotlib, Plotly
-  - Power BI / Tableau (optional)
-- **Documentation**: Markdown, Jupyter Notebook
+  - Power BI / Tableau
+- **Documentation**: Jupyter Notebook
 - **Version Control**: Git, GitHub
 
 ---
@@ -49,5 +49,5 @@ updating
 
 Feel free to connect or reach out:
 
-- **GitHub**: https://github.com/dragonka79/Data_Analysis_SQL_Project
+- **GitHub**: https://github.com/dragonka79/
 - **LinkedIn**: https://www.linkedin.com/in/zolt%C3%A1n-dienes-22b6bb217/
