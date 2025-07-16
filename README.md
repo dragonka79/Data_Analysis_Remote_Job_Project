@@ -1,2 +1,2 @@
-# Data_Analyst_SQL_Project
+# Data_Analysis_SQL_Project
 SQL projects for Data Analysis
