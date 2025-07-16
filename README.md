@@ -26,18 +26,18 @@ The databases used for this project come from https://remoteok.com/
 
 ## 📁 Repository Structure
 
-Data_Analysis_Remote_job_Project/
-├── data/
-│   ├── raw_jobs.csv
-│   └── cleaned_jobs.csv
-├── sql/
-│   ├── schema.sql
-│   ├── queries.sql
-├── notebooks/
-│   └── data_cleaning.ipynb
-├── visualizations/
-│   
-├── README.md
+Data_Analysis_Remote_job_Project/  
+├── data/  
+│   ├── raw_jobs.csv  
+│   └── cleaned_jobs.csv  
+├── sql/  
+│   ├── schema.sql  
+│   ├── queries.sql  
+├── notebooks/  
+│   └── data_cleaning.ipynb  
+├── visualizations/  
+│     
+├── README.md  
 
 
 ## 🛠️ Tools & Technologies
