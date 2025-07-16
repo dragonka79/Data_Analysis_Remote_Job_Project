@@ -26,10 +26,14 @@ The dataset used for this project comes from https://remoteok.com/
 
 ## 📁 Repository Structure
 
-Data_Analysis_Remote_job_Project/  
+Data_Analysis_Remote_Job_Project/  
 ├── data/  
 │   ├── raw_jobs.csv  
 │   └── cleaned_jobs.csv  
+│   ├── raw_companies.csv  
+│   └── cleaned_companies.csv  
+│   ├── raw_job_tags.csv  
+│   └── cleaned_job_tags.csv  
 ├── sql/  
 │   ├── schema.sql  
 │   ├── queries.sql  
