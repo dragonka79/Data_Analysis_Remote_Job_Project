@@ -23,6 +23,7 @@ updating
 ## 🛠️ Tools & Technologies
 
 - **Database**: PostgreSQL
+- **Database Management/Executing SQL queries**: Visual Studio Code
 - **Querying**: SQL (CTEs, Joins, Aggregations, Window Functions)
 - **Visualization**:
   - Python: Pandas, Seaborn, Matplotlib, Plotly
