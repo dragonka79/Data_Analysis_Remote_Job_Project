@@ -26,7 +26,19 @@ The databases used for this project come from https://remoteok.com/
 
 ## 📁 Repository Structure
 
-updating
+Data_Analysis_Remote_job_Project/
+├── data/
+│   ├── raw_jobs.csv
+│   └── cleaned_jobs.csv
+├── sql/
+│   ├── schema.sql
+│   ├── queries.sql
+├── notebooks/
+│   └── data_cleaning.ipynb
+├── visualizations/
+│   
+├── README.md
+
 
 ## 🛠️ Tools & Technologies
 
@@ -44,8 +56,8 @@ updating
 
 ## 🧠 Learning Objectives
 
-- Build end-to-end projects using SQL as a foundation
-- Improve your database modeling and optimization skills
+- Build end-to-end project using SQL as a foundation
+- Improving database modeling and optimization skills
 - Turn raw data into actionable insights
 - Present work suitable for a **Data Analyst** or **Data Engineer** portfolio
 
