@@ -1,4 +1,4 @@
-# PostgreSQL & Data Visualization Project on job advertisement
+# PostgreSQL & Data Visualization Project on TMDB database
 
 Welcome to first project that combine the power of **PostgreSQL** with compelling **data visualizations** using tools like Power BI, Tableau, and Python-based libraries (e.g., Matplotlib, Seaborn, Plotly).  
 This repository is designed to showcase real-world applications of relational databases and analytical dashboards.
@@ -10,7 +10,7 @@ This repository is designed to showcase real-world applications of relational da
 ## 📌 Planned Project
 
 Data scraping, data cleaning, data analysis and visualization from different aspects.
-The dataset used for this project comes from https://remoteok.com/
+The dataset used for this project comes from TMDB.
 
 ---
 ## 🔍 Project Goals
@@ -28,12 +28,12 @@ The dataset used for this project comes from https://remoteok.com/
 
 Data_Analysis_Remote_Job_Project/  
 ├── data/  
-│   ├── raw_jobs.csv  
-│   └── cleaned_jobs.csv  
-│   ├── raw_companies.csv  
-│   └── cleaned_companies.csv  
-│   ├── raw_job_tags.csv  
-│   └── cleaned_job_tags.csv  
+│   ├── .csv  
+│   └── .csv  
+│   ├── .csv  
+│   └── .csv  
+│   ├── .csv  
+│   └── .csv  
 ├── sql/  
 │   ├── schema.sql  
 │   ├── queries.sql  
